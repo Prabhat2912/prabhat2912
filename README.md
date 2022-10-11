@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">Front-end Developer|Techie|Average Gamer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat2912&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat2912" /> </p>
+
 
 - 🔭 I’m currently working on **Front-end Development**
 
