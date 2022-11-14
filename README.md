@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Prabhat2912/prabhat2912/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
-<h3 align="center">A passionate Web developer |Techie |Sometimes Gamer</h3>
+<h3 align="center">A passionate Web developer |Techie</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -9,7 +9,9 @@
 - 💬 Ask me about **HTML,CSS,C,C++**
 
 - 📫 How to reach me **pk993105@gmail.com**
-- <img src="ezgif-5-029e77eed6.gif" align="right"/>
+
+- ⚡ Fun fact **I play games somtime**
+- <img src="ezgif-5-029e77eed6.gif" align="right" margin="auto"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
