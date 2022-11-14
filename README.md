@@ -11,7 +11,7 @@
 - 📫 How to reach me **pk993105@gmail.com**
 
 - ⚡ Fun fact **I play games somtime**
-- <img src="ezgif-5-029e77eed6.gif" align="right" margin="auto"/>
+- <img src="ezgif-5-029e77eed6.gif" align="right" margin="2px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
