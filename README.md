@@ -9,7 +9,6 @@
 - 💬 Ask me about **HTML,CSS,C,C++**
 
 - 📫 How to reach me **pk993105@gmail.com**
--<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" size="15px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
