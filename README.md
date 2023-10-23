@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, DSA<br>💬 Ask me about HTML CSS JavaScript C++ and C<br>⚡ Fun fact  I like playing mobile games
+🌱 I’m currently learning **Java, DSA**<br>💬 Ask me about **HTML CSS JavaScript C++ and C**<br>⚡ Fun fact  **I like playing mobile games**
 
 
 ## 🌐 Socials:
