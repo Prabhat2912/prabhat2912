@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Prabhat Kumar</h1>
+<h2>A passionate frontend developer | Techie</h2>
+
 # 💫 About Me:
 🌱 I’m currently learning **Java, DSA**<br>💬 Ask me about **HTML CSS JavaScript C++ and C**<br>⚡ Fun fact  **I like playing mobile games**
 
