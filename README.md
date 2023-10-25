@@ -8,7 +8,8 @@
 - 📫 How to reach me **pk993105@gmail.com**
 
 - ⚡ Fun fact **I love to play video games**
-  <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw0RYE6u85iP-M4j0iMsfNqy&ust=1698337233263000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCE5a_NkYIDFQAAAAAdAAAAABAE">
+  
+![f1e734f9cade86fe737a9aa404ad5677](https://github.com/Prabhat2912/prabhat2912/assets/114847239/d8463cc4-cb61-4177-8f4f-54f626cc6c97)
 
 
 
