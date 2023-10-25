@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">Front-end Developer|Tech-Enthusiast</h3>
-![Masterhead](https://camo.githubusercontent.com/d0211804346ed09e79c140c336152bab28f70c5b59e8997a0b91201078b8a611/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3636323436332f73637265656e73686f74732f333238313831372f6d656469612f36656462323262623933656335623832353631353663633237353565336365632e676966)
 - 🌱 I’m currently learning **Java, React, DSA**
 
 - 💬 Ask me about **HTML CSS JavaScript C C++**
