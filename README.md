@@ -1,3 +1,4 @@
+![f1e734f9cade86fe737a9aa404ad5677](https://github.com/Prabhat2912/prabhat2912/assets/114847239/d8463cc4-cb61-4177-8f4f-54f626cc6c97)
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">Front-end Developer|Tech-Enthusiast</h3>
 
@@ -9,7 +10,7 @@
 
 - ⚡ Fun fact **I love to play video games**
   
-![f1e734f9cade86fe737a9aa404ad5677](https://github.com/Prabhat2912/prabhat2912/assets/114847239/d8463cc4-cb61-4177-8f4f-54f626cc6c97)
+
 
 
 
