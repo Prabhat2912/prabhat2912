@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">Front-end Developer|Tech-Enthusiast</h3>
-- 🌱 I’m currently learning **Java, React, DSA**
+- 🌱 I’m currently learning **Java DSA React**
 
 - 💬 Ask me about **HTML CSS JavaScript C C++**
 
